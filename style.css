@@ -1,0 +1,11 @@
+.head{
+	display: inline-block;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+}
+.navigation-lists{
+	display: inline-block;
+	vertical-align: top;
+}
