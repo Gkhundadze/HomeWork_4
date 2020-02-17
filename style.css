@@ -105,3 +105,20 @@ header{
 .youtube{
 
 }
+.map{
+	background-color: #E6E6E6;
+	height: 570px;
+}
+.lightcolor{
+	color: #808080;
+}
+.contact-title{
+	font-family: ninomtavrulibold;
+	font-size: 20px;
+	color: #3D58A6;
+}
+.contact-box{
+	margin-top: 16px;
+	margin-left: 87px;
+	padding-top: 73px;
+}
